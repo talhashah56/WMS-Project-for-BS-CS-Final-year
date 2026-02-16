@@ -13,7 +13,7 @@ Installation Steps:
    http://localhost/phpmyadmin
 
 5. Create a new database named:
-   wms
+   wms_db
 
 6. Click Import and select the file:
    wms.sql
@@ -24,9 +24,10 @@ Installation Steps:
 
 Login Details:
 --------------
-Username: admin
-Password: admin123   (change if different)
-
+Username: Talha Admin
+Password: 103298
+Username: Zeeshan 
+Password: 123123
 
 Developed By:
 -------------
